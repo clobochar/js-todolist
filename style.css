@@ -1,0 +1,40 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #EBEBEB;
+}
+
+.todo-container {
+    margin-top: 100px;
+}
+
+.todo-container h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.todo-container input {
+    display: flex;
+    justify-content: center;
+    border: none;
+    padding: 20px 180px;
+    border-radius: 5px;
+}
+
+.add-btn {
+    position: relative;
+    top: -22px;
+    left: 420px;
+    border: none;
+    background-color: #EFEFEF;
+    padding: 15px;
+    border-radius: 50%;
+    font-size: 16px;
+}
