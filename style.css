@@ -53,3 +53,13 @@ ul {
     border-radius: 5px;
     margin: 0 20px;
 }
+
+.delete-btn {
+    position: relative;
+    top: -50px;
+    left: 420px;
+    border: none;
+    background-color: #EFEFEF;
+    padding: 10px;
+    font-size: 16px;
+}
